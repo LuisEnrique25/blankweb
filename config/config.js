@@ -1,4 +1,4 @@
-require('dotenv').confic();
+require('dotenv').config();
 
 module.exports = {
     development:{
